@@ -1,3 +1,6 @@
 # Composing Complex Interfaces
+___
 
-Use this project to code along with the [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces) tutorial.
+## What's it?
+
+Part 6 of the SwiftUI tutorials. For more information, see [Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)
